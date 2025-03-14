@@ -122,6 +122,9 @@ Use this section as a chance to recap the highlights of your presentation, namel
 
 ### Slides
 
+> These reminders come from the Demo Day presentations given last semester. While the final presentation is twice as long,
+> the general rules of good presentationeering still apply.
+
 The following guidelines and suggestions will appear arbitary and restrictive, but focus on a couple of key assumptions
 derived from situations where slide decks go wrong:
 
