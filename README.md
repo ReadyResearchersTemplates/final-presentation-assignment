@@ -180,14 +180,14 @@ practice with your readers. You should organize practice sessions with other fol
 
 Ideally, practice with anyone who you can convince to pay attention.
 
-As presentation day approaches, you should be able to present your `5` minutes as if a set of memorized facts. The only way you get there
+As presentation day approaches, you should be able to present your `10` minutes as if a set of memorized facts. The only way you get there
 is through practice.
 
 ### Evaluation
 
 Presentation attendees have the opportunity to submit scorecards for each project. These scorecards are organized around the criteria
-defined at the start of this document and are `Yes`/`No` responses to a series of questions with additional space to rate a given
-presentation as `Exceptional` in a particular category.
+defined at the start of this document and are `Yes`/`No` and "Likert scale" responses to a series of questions with additional space to 
+rate a given presentation as `Exceptional` in a particular category.
 
 The evaluation form will be released on the first day of presentations. Attendees will be given a short amount of time between presentations
 to complete the form.
